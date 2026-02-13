@@ -1,4 +1,4 @@
-## 👋 Hi, I'm teto
+## 👋 Hi, I'm TeTo
 
 Aspiring Security Researcher & CTF Player focused on Web Security and Application Security.
 
