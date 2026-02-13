@@ -17,4 +17,4 @@ My main interests:
 
 I aim to build real-world security skills, not just theoretical knowledge.
 
-🔗 My Blog: https://teto-o.github.io
+🔗 My Blog: teto-o.github.io
